@@ -1,0 +1,9 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 16 Aug 2021, YES
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 16 Aug 2021, NO
+admin, Task manager, Complete task manager application, 08 Jul 2021, 2 Jun 2020, YES
+danny, Review, Review task manager , 08 Jul 2021, 04 Aug 2020, NO
+jackson, Develop software, Use python to develop the next big thing, 08 Jul 2021, 20 Dec 2022, NO
+sammy, Fix internet, Repaire the WIFI router, 08 Jul 2021, 29 Dec 2022, NO
+eric, Fix the internet, change internest service provider, 12 Aug 2021, 5 Jun 2022, NO
+admin, Build Application, Develop Task Manager App, 12 Aug 2021, 3 Mar 2022, NO
+sammy, Fix clock, Update date and time, 19 Aug 2021, 2 Sep 2021, NO

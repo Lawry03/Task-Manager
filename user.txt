@@ -1,0 +1,7 @@
+admin, adm1n
+jason, jas
+sammy, sam
+jackson, jack
+danny, dan
+jack, jack
+eric, ricky
